@@ -1,0 +1,28 @@
+/* C:\Users\User\g1\frontend\src\styles\Header.css */
+
+.header-container {
+  background-color: rgb(184, 173, 124); /* Add desired color */
+  color: #fff; /* Text color */
+  padding: 10px;
+  height: 70px;
+  display: flex;
+  align-items: center; /* Align items vertically */
+  justify-content: space-between; /* Space items evenly */
+  margin: 0; /* Remove all margins */
+}
+
+.logo-navbar-container {
+  display: flex;
+  align-items: center; /* Align items vertically */
+}
+
+.logo-container {
+  width: 80px; /* Set the width of the logo container */
+  height: 80px; /* Set the height of the logo container */
+  margin-right: 20px; /* Add some spacing between logo and navbar */
+}
+
+.logo {
+  width: 100%; /* Make the logo fill the entire container */
+  height: auto; /* Maintain the aspect ratio of the logo */
+}

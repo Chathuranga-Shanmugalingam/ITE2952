@@ -1,0 +1,32 @@
+/* C:\Users\User\g1\frontend\src\styles\App.css */
+
+/* Ensure the root/body spans the entire viewport */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Define flex layout for the root/body */
+  #root {
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    min-height: 100vh; /* Ensure the body takes at least the viewport height */
+  }
+  
+  /* Set margin for the content area */
+  .main-content {
+    flex: 1; /* Allow the content area to grow to fill available space */
+    margin: 20px; /* Adjust margin as needed */
+  }
+  
+  /* Footer styles */
+  /* .footer-container {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  } */
+
+  body {
+    font-family: 'Arial', sans-serif; /* Change 'Arial' to your desired font */
+  }

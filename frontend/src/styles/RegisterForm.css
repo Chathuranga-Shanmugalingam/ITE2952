@@ -1,0 +1,40 @@
+/* C:\Users\User\c2\frontend\src\styles\RegisterForm.css */
+
+.register-form {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Arrange fields in two columns */
+    grid-gap: 10px; /* Add some space between fields */
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 10px;
+  }
+  
+  .register-form label {
+    margin-bottom: 5px;
+  }
+  
+  .register-form input {
+    width: 100%; /* Make input fields fill the column */
+    padding: 5px;
+  }
+  
+  .register-form button {
+    grid-column: 1 / -1; /* Span the button across both columns */
+    width: 100%; /* Make the button fill the width of both columns */
+    margin-top: 10px;
+  }
+  
+  
+  .register-form button {
+    padding: 8px 16px;
+    background-color: #bdcad8;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  .register-form button:hover {
+    background-color: #18395c;
+  }
+  

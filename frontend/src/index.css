@@ -1,0 +1,12 @@
+/* C:\Users\User\g1\frontend\src\index.css */
+
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Optional: Prevent horizontal scroll */
+  }
+  
+  #root {
+    height: 100%;
+  }
+  

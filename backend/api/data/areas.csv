@@ -1,0 +1,242 @@
+District,District_Short_Code,Div_Sec_Area,Div_Sec_Area_Short_Code
+Ampara,AMP,Addalaichenai,ADD
+Ampara,AMP,Akkaraipattu,AKK
+Ampara,AMP,Alayadivembu,ALA
+Ampara,AMP,Damana,DAM
+Ampara,AMP,Dehiattakandiya,DEH
+Ampara,AMP,Irakkamam,IRA
+Ampara,AMP,Lahugala,LAH
+Ampara,AMP,Mahaoya,MAH
+Ampara,AMP,Padiyathalawa,PAD
+Ampara,AMP,Samanthurai,SAM
+Anuradhapura,AND,Anuradhapura,ANU
+Anuradhapura,AND,Galenbindunuwewa,GAL
+Anuradhapura,AND,Galnewa,GAL
+Anuradhapura,AND,Horowpathana,HOR
+Anuradhapura,AND,Ipalogama,IPA
+Anuradhapura,AND,Kahatagasdigiliya,KAH
+Anuradhapura,AND,Kebithigollewa,KEB
+Anuradhapura,AND,Kekirawa,KEK
+Anuradhapura,AND,Mahavilachchiya,MAH
+Anuradhapura,AND,Medawachchiya,MED
+Anuradhapura,AND,Mihintale,MIH
+Anuradhapura,AND,Nachchadoowa,NAC
+Anuradhapura,AND,Nochchiyagama,NOC
+Anuradhapura,AND,Nuwaragam Palatha Central,NUW
+Anuradhapura,AND,Padaviya,PAD
+Anuradhapura,AND,Palagala,PAL
+Anuradhapura,AND,Rajanganaya,RAJ
+Anuradhapura,AND,Rambewa,RAM
+Anuradhapura,AND,Thalawa,THA
+Anuradhapura,AND,Thambuttegama,THA
+Badulla,BAD,Badulla,BAD
+Badulla,BAD,Bandarawela,BAN
+Badulla,BAD,Diyatalawa,DIY
+Badulla,BAD,Ella,ELL
+Badulla,BAD,Haldummulla,HAL
+Badulla,BAD,Hali Ela,HAL
+Badulla,BAD,Haputale,HAP
+Badulla,BAD,Lunugala,LUN
+Badulla,BAD,Mahiyanganaya,MAH
+Badulla,BAD,Passara,PAS
+Badulla,BAD,Soranathota,SOR
+Badulla,BAD,Uva Paranagama,UVA
+Badulla,BAD,Welimada,WEL
+Batticaloa,BAT,Batticaloa,BAT
+Batticaloa,BAT,Eravur Pattu,ERA
+Batticaloa,BAT,Kalkudah,KAL
+Batticaloa,BAT,Koralaipattu Central,KOR
+Batticaloa,BAT,Koralaipattu West,KOR
+Batticaloa,BAT,Manmunai North,MAN
+Batticaloa,BAT,Manmunai Pattu,MAN
+Batticaloa,BAT,Manmunai South West,MAN
+Batticaloa,BAT,Manmunai West,MAN
+Batticaloa,BAT,Porativu Pattu,POR
+Batticaloa,BAT,Porativu Pattu (Kiran),POR
+Colombo,COL,Colombo,COL
+Colombo,COL,Dehiwala-Mount Lavinia,DEH
+Colombo,COL,Homagama,HOM
+Colombo,COL,Kaduwela,KAD
+Colombo,COL,Kolonnawa,KOL
+Colombo,COL,Maharagama,MAH
+Colombo,COL,Moratuwa,MOR
+Colombo,COL,Ratmalana,RAT
+Colombo,COL,Seethawakapura,SEE
+Colombo,COL,Sri Jayawardenepura Kotte,SRI
+Galle,GAL,Ambalangoda,AMB
+Galle,GAL,Baddegama,BAD
+Galle,GAL,Balapitiya,BAL
+Galle,GAL,Bentota,BEN
+Galle,GAL,Elpitiya,ELP
+Galle,GAL,Galle,GAL
+Galle,GAL,Habaraduwa,HAB
+Galle,GAL,Hikkaduwa,HIK
+Galle,GAL,Karandeniya,KAR
+Galle,GAL,Rathgama,RAT
+Galle,GAL,Thawalama,THA
+Gampaha,GAM,Attanagalla,ATT
+Gampaha,GAM,Biyagama,BIY
+Gampaha,GAM,Divulapitiya,DIV
+Gampaha,GAM,Dompe,DOM
+Gampaha,GAM,Gampaha,GAM
+Gampaha,GAM,Ja-Ela,JAE
+Gampaha,GAM,Katana,KAT
+Gampaha,GAM,Kelaniya,KEL
+Gampaha,GAM,Minuwangoda,MIN
+Gampaha,GAM,Mirigama,MIR
+Gampaha,GAM,Negombo,NEG
+Hambantota,HAM,Ambalantota,AMB
+Hambantota,HAM,Angunakolapelessa,ANG
+Hambantota,HAM,Beliatta,BEL
+Hambantota,HAM,Hambantota,HAM
+Hambantota,HAM,Lunugamvehera,LUN
+Hambantota,HAM,Sooriyawewa,SOR
+Hambantota,HAM,Tissamaharama,TIS
+Jaffna,JAF,Jaffna,JAF
+Jaffna,JAF,Karaveddy,KAR
+Jaffna,JAF,Maruthankerney,MAR
+Jaffna,JAF,Nallur,NAL
+Jaffna,JAF,Point Pedro,POI
+Jaffna,JAF,Vadamarachchi East,VAD
+Jaffna,JAF,Vadamarachchi North,VAD
+Jaffna,JAF,Vadamarachchi South West,VAD
+Jaffna,JAF,Valikamam East,VAL
+Jaffna,JAF,Valikamam North,VAL
+Jaffna,JAF,Valikamam South,VAL
+Jaffna,JAF,Valikamam South West,VAL
+Kalutara,KAL,Agalawatta,AGA
+Kalutara,KAL,Beruwala,BER
+Kalutara,KAL,Bulathsinhala,BUL
+Kalutara,KAL,Dodangoda,DOD
+Kalutara,KAL,Horana,HOR
+Kalutara,KAL,Ingiriya,ING
+Kalutara,KAL,Kalutara,KAL
+Kalutara,KAL,Madurawala,MAD
+Kalutara,KAL,Matugama,MAT
+Kalutara,KAL,Palindanuwara,PAL
+Kalutara,KAL,Panadura,PAN
+Kandy,KAN,Akurana,AKU
+Kandy,KAN,Gangawata Korale,GAN
+Kandy,KAN,Kandy Four Gravets & Gangawata Korale,KAN
+Kandy,KAN,Kundasale,KUN
+Kandy,KAN,Medadumbara,MED
+Kandy,KAN,Pathadumbara,PAT
+Kandy,KAN,Teldeniya,TEL
+Kandy,KAN,Ududumbara,UDU
+Kandy,KAN,Yatinuwara,YAT
+Kegalle,KEG,Aranayaka,ARA
+Kegalle,KEG,Bulathkohupitiya,BUL
+Kegalle,KEG,Dehiowita,DEH
+Kegalle,KEG,Deraniyagala,DER
+Kegalle,KEG,Galigamuwa,GAL
+Kegalle,KEG,Kegalle,KEG
+Kegalle,KEG,Mawanella,MAW
+Kegalle,KEG,Rambukkana,RAM
+Kegalle,KEG,Ruwanwella,RUW
+Kegalle,KEG,Warakapola,WAR
+Kegalle,KEG,Yatiyantota,YAT
+Kilinochchi,KIL,Karachchi,KAR
+Kilinochchi,KIL,Pachchilaipalli,PAC
+Kilinochchi,KIL,Poonakary,POO
+Kurunegala,KUR,Alawwa,ALA
+Kurunegala,KUR,Ambanpola,AMB
+Kurunegala,KUR,Bingiriya,BIN
+Kurunegala,KUR,Galgamuwa,GAL
+Kurunegala,KUR,Giribawa,GIR
+Kurunegala,KUR,Ibbagamuwa,IBB
+Kurunegala,KUR,Kuliyapitiya,KUL
+Kurunegala,KUR,Kurunegala,KUR
+Kurunegala,KUR,Mawathagama,MAW
+Kurunegala,KUR,Nikaweratiya,NIK
+Kurunegala,KUR,Panduwasnuwara,PAN
+Kurunegala,KUR,Polgahawela,POL
+Kurunegala,KUR,Polpithigama,POL
+Kurunegala,KUR,Rideegama,RID
+Kurunegala,KUR,Udubaddawa,UDU
+Kurunegala,KUR,Wariyapola,WAR
+Kurunegala,KUR,Weerambugedara,WEE
+Kurunegala,KUR,Yapahuwa,YAP
+Mannar,MAN,Madhu,MAD
+Mannar,MAN,Mannar,MAN
+Mannar,MAN,Musali,MUS
+Mannar,MAN,Nanaddan,NAN
+Mannar,MAN,Welioya,WEL
+Matale,MAT,Dambulla,DAM
+Matale,MAT,Galewela,GAL
+Matale,MAT,Laggala-Pallegama,LAG
+Matale,MAT,Matale,MAT
+Matale,MAT,Naula,NAU
+Matale,MAT,Pallepola,PAL
+Matale,MAT,Rattota,RAT
+Matale,MAT,Sigiriya,SIG
+Matale,MAT,Ukuwela,UKU
+Matale,MAT,Wilgamuwa,WIL
+Matara,MTA,Akuressa,AKU
+Matara,MTA,Devinuwara,DEV
+Matara,MTA,Hakmana,HAK
+Matara,MTA,Kamburupitiya,KAM
+Matara,MTA,Matara,MAT
+Matara,MTA,Mulatiyana,MUL
+Matara,MTA,Pasgoda,PAS
+Matara,MTA,Pitabeddara,PIT
+Matara,MTA,Thihagoda,THI
+Matara,MTA,Weligama,WEL
+Monaragala,MON,Badalkumbura,BAD
+Monaragala,MON,Bibile,BIB
+Monaragala,MON,Buttala,BUT
+Monaragala,MON,Kataragama,KAT
+Monaragala,MON,Medagama,MED
+Monaragala,MON,Monaragala,MON
+Monaragala,MON,Sevanagala,SEV
+Monaragala,MON,Siyambalanduwa,SIY
+Monaragala,MON,Wellawaya,WEL
+Mullaitivu,MUL,Maritimepattu,MAR
+Mullaitivu,MUL,Mullaitivu,MUL
+Nuwara Eliya,NUE,Ambagamuwa,AMB
+Nuwara Eliya,NUE,Hanguranketha,HAN
+Nuwara Eliya,NUE,Kotmale,KOT
+Nuwara Eliya,NUE,Maskeliya,MAS
+Nuwara Eliya,NUE,Nuwara Eliya,NUE
+Nuwara Eliya,NUE,Walapane,WAL
+Polonnaruwa,POL,Dimbulagala,DIM
+Polonnaruwa,POL,Elahera,ELA
+Polonnaruwa,POL,Hingurakgoda,HIN
+Polonnaruwa,POL,Lankapura,LAN
+Polonnaruwa,POL,Medirigiriya,MED
+Polonnaruwa,POL,Thamankaduwa,THA
+Puttalam,PUT,Anamaduwa,ANA
+Puttalam,PUT,Arachchikattuwa,ARA
+Puttalam,PUT,Chilaw,CHI
+Puttalam,PUT,Karuwalagaswewa,KAR
+Puttalam,PUT,Mundalama,MUN
+Puttalam,PUT,Nawagattegama,NAW
+Puttalam,PUT,Pallama,PAL
+Puttalam,PUT,Puttalam,PUT
+Ratnapura,RAT,Ayagama,AYA
+Ratnapura,RAT,Balangoda,BAL
+Ratnapura,RAT,Eheliyagoda,EHE
+Ratnapura,RAT,Elapatha,ELA
+Ratnapura,RAT,Embilipitiya,EMB
+Ratnapura,RAT,Godakawela,GOD
+Ratnapura,RAT,Imbulpe,IMB
+Ratnapura,RAT,Kalawana,KAL
+Ratnapura,RAT,Kiriella,KIR
+Ratnapura,RAT,Kolonne,KOL
+Ratnapura,RAT,Nivitigala,NIV
+Ratnapura,RAT,Opanayake,OPA
+Ratnapura,RAT,Pelmadulla,PEL
+Ratnapura,RAT,Ratnapura,RAT
+Ratnapura,RAT,Weligepola,WEL
+Trincomalee,TRI,Gomarankadawala,GOM
+Trincomalee,TRI,Kantalai,KAN
+Trincomalee,TRI,Kinniya,KIN
+Trincomalee,TRI,Kuchchaveli,KUC
+Trincomalee,TRI,Morawewa,MOR
+Trincomalee,TRI,Padavi Sri Pura,PAD
+Trincomalee,TRI,Seruwila,SER
+Trincomalee,TRI,Thampalakamam,THA
+Trincomalee,TRI,Trincomalee Town & Gravets,TRI
+Trincomalee,TRI,Verugal,VER
+Vavuniya,VAV,Vavuniya North,VAN
+Vavuniya,VAV,Vavuniya South,VAS
+Vavuniya,VAV,Vavuniya Town,VAT

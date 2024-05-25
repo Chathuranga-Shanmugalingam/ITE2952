@@ -1,0 +1,10 @@
+/* C:\Users\User\g1\frontend\src\styles\Footer.css */
+
+.footer-container {
+  background-color: #333; /* Add desired color */
+  color: #fff; /* Text color */
+  padding: 10px;
+  position: fixed; /* Set position to fixed */
+  bottom: 0; /* Align to the bottom */
+  width: 100%; /* Make the footer span the entire width */
+}
